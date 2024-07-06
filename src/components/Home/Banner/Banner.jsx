@@ -1,5 +1,5 @@
 import "./Banner.scss";
-import BannerImg from "/Users/HP/Desktop/ecomar website/client/src/assets/banner-img.png";
+import BannerImg from "../../../assets/category/banner-img.png";
 const Banner = () => {
   return (
     <div className=" herobanner">
